@@ -1,0 +1,21 @@
+####################################################################
+#         BossBar V2.0.0 Build 3.3.0 by Goug3                      #
+# Spigot : https://www.spigotmc.org/resources/bossbar.22820/       #
+# Bukkit : http://dev.bukkit.org/bukkit-plugins/simplebossbar/     #
+####################################################################
+version: '2.0.0 - Compatiblity' #Don't tuch
+activer_plugin: true #if you want disable the plugin
+langue_plugin: 1 #Change as 2 if you are french !
+# French = 2, English = 1, Germany = 3.
+contenu_bar: 'Indiquez ici le contenue de votre BossBar' #Contenant of the bar (max 64)
+dure_spawn: 20 #During of the spawn bar in seconds MAX:180
+bar_temporaire: true
+######### ONLY if bar_temporaire is on FALSE #########
+contenu_bar_2: 'Indiquez le contenue de  la deuxieme bar'
+activer_bar_2: false
+contenu_bar_3: 'Indiquez le contenue de  la troisieme bar'
+activer_bar_3: false
+contenu_bar_4: 'Indiquez le contenue de  la quatrieme bar'
+activer_bar_4: false
+aleatoire: true #Don't enabled = Don't change to false !
+######### Uniquement si bar_temporaire est sur FALSE #########

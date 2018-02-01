@@ -1,0 +1,17 @@
+main: fr.goug.BossBar.Main
+name: BossBar
+version: 2.0.0
+author: Goug3
+commands:
+    bbinfo:
+         description: Pour Avoir des infos sur le plugin BB.
+         permission: bb.info
+    bbcheck:
+         description: Pour reafficher la BB.
+         permission: bb.check
+    bbreload:
+         description: Pour reload le plugin.
+         permission: bb.reload
+    bbbroadcast:
+         description: Afficher le message tous les joueurs.
+         permission: bb.broadcast
