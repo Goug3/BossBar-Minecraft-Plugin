@@ -6,5 +6,3 @@ Plugin disponible sur :
 -> https://dev.bukkit.org/projects/simplebossbar
 
 Ici, vous trouverez les dernières versions du plugins, en avance, avec le code désormais accessible suite au presque deux ans d'exploitation.
-
-Copyright Gougdev.fr, voir fichier license.
